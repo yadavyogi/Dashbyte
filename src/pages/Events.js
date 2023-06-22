@@ -248,5 +248,6 @@ export default function Events() {
         <Footer />
       </div>
     </React.Fragment>
+    //react
   );
 }
